@@ -1,0 +1,3 @@
+Source Code (.py): The human-readable code written by the developer.
+Bytecode: The interpreter compiles the source code into an intermediate form called bytecode.
+Python Virtual Machine (PVM): The PVM reads the bytecode and executes it on the target system, making Python highly portable across different platforms. 

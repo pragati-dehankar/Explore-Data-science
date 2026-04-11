@@ -1,0 +1,13 @@
+Python is very interestingHello
+Welcome to Python
+File Handling
+Hello
+Welcome to Python
+File Handling
+Hello
+Welcome to Python
+File Handling
+Hello
+Welcome to Python
+File Handling
+Hello Python!
